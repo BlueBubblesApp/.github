@@ -8,3 +8,6 @@ Thank you to our $25+/month sponsors! Maintenance of this project is made possib
 
 <a href="https://github.com/buzzedword"><img src="https://avatars.githubusercontent.com/u/334485?v=4" width="50px" alt="buzzedword" />
 <a href="https://github.com/samir-a-ali"><img src="https://avatars.githubusercontent.com/u/107290291?v=4" width="50px" alt="samir-a-ali" />
+<a href="https://github.com/Alta1r"><img src="https://avatars.githubusercontent.com/u/74389893?v=4" width="50px" alt="
+Alta1r" />
+  
