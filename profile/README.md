@@ -9,3 +9,4 @@ Thank you to our $25+/month sponsors! Maintenance of this project is made possib
 <a href="https://github.com/goodsoftwaredev"><img src="https://avatars.githubusercontent.com/u/98376923?v=4" width="50px" alt="goodsoftwaredev" />
 <a href="https://github.com/buzzedword"><img src="https://avatars.githubusercontent.com/u/334485?v=4" width="50px" alt="buzzedword" />
 <a href="https://github.com/EagleWins"><img src="https://avatars.githubusercontent.com/u/118770802?v=4" width="50px" alt="EagleWins" />
+<a href="https://github.com/heliumlake"><img src="https://avatars.githubusercontent.com/u/13390500?v=4" width="50px" alt="heliumlake" />
