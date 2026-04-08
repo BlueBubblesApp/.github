@@ -11,3 +11,13 @@ Thank you to our $25+/month sponsors! Maintenance of this project is made possib
 <a href="https://github.com/EagleWins"><img src="https://avatars.githubusercontent.com/u/118770802?v=4" width="50px" alt="EagleWins" />
 <a href="https://github.com/heliumlake"><img src="https://avatars.githubusercontent.com/u/13390500?v=4" width="50px" alt="heliumlake" />
 <a href="https://github.com/setlife-network"><img src="https://avatars.githubusercontent.com/u/35405020?s=48&v=4" alt="setlife-network" />
+
+## Star History
+
+<a href="https://www.star-history.com/?repos=bluebubblesapp%2Fbluebubbles-app%2Cbluebubblesapp%2Fbluebubbles-server&type=date&logscale=&legend=bottom-right">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=bluebubblesapp/bluebubbles-app%2Cbluebubblesapp/bluebubbles-server&type=date&theme=dark&legend=bottom-right" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=bluebubblesapp/bluebubbles-app%2Cbluebubblesapp/bluebubbles-server&type=date&legend=bottom-right" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=bluebubblesapp/bluebubbles-app%2Cbluebubblesapp/bluebubbles-server&type=date&legend=bottom-right" />
+ </picture>
+</a>
