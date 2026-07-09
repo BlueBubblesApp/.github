@@ -14,10 +14,10 @@ Thank you to our $25+/month sponsors! Maintenance of this project is made possib
 
 ## Star History
 
-<a href="https://www.star-history.com/?repos=bluebubblesapp%2Fbluebubbles-app%2Cbluebubblesapp%2Fbluebubbles-server&type=date&logscale=&legend=bottom-right">
+<a href="https://www.star-history.com/?repos=BlueBubblesApp%2FBluebubbles-app%2CBlueBubblesApp%2Fbluebubbles-server&type=date&legend=bottom-right">
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=bluebubblesapp/bluebubbles-app%2Cbluebubblesapp/bluebubbles-server&type=date&theme=dark&legend=bottom-right" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=bluebubblesapp/bluebubbles-app%2Cbluebubblesapp/bluebubbles-server&type=date&legend=bottom-right" />
-   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=bluebubblesapp/bluebubbles-app%2Cbluebubblesapp/bluebubbles-server&type=date&legend=bottom-right" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=BlueBubblesApp/Bluebubbles-app%2CBlueBubblesApp/bluebubbles-server&type=date&theme=dark&legend=bottom-right&sealed_token=yztYo7QQt9TGjtEcwZadPAWnDqgZQhnj8FFEgjvZI3sF4-QrPdY038_LZLbk0RlRvsu5-uYv0-nX59BEqe1P4PNPvci9CcIHXeFohD1AzKn8PTZhAlaODg" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=BlueBubblesApp/Bluebubbles-app%2CBlueBubblesApp/bluebubbles-server&type=date&legend=bottom-right&sealed_token=yztYo7QQt9TGjtEcwZadPAWnDqgZQhnj8FFEgjvZI3sF4-QrPdY038_LZLbk0RlRvsu5-uYv0-nX59BEqe1P4PNPvci9CcIHXeFohD1AzKn8PTZhAlaODg" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=BlueBubblesApp/Bluebubbles-app%2CBlueBubblesApp/bluebubbles-server&type=date&legend=bottom-right&sealed_token=yztYo7QQt9TGjtEcwZadPAWnDqgZQhnj8FFEgjvZI3sF4-QrPdY038_LZLbk0RlRvsu5-uYv0-nX59BEqe1P4PNPvci9CcIHXeFohD1AzKn8PTZhAlaODg" />
  </picture>
 </a>
